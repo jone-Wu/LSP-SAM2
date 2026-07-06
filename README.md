@@ -1,4 +1,4 @@
-# LSP-SAM2_v2
+# LSP-SAM2
 A Light-weight Self-Prompting Foundation Model for Automatous Video Object Segmentation
 
 <img width="3858" height="1567" alt="Image" src="https://github.com/user-attachments/assets/0eb83640-1229-4185-a6c5-7931270216f6" />
@@ -62,7 +62,7 @@ You can install it on a GPU machine using:
 
 **Directory Structure:**
 
-	LSP-SAM2_v2/DAVIS-2017-trainval-480p/
+	LSP-SAM2/DAVIS-2017-trainval-480p/
 	|-- DAVIS/
 	|	|-- ImageSets/
 	|	|	|-- 2017/
@@ -79,7 +79,7 @@ You can install it on a GPU machine using:
 	|	|	|	|	|-- 00000.jpg
 	|	|	|	|	|-- ...
 
-	LSP-SAM2_v2/mose2023/
+	LSP-SAM2/mose2023/
 	|-- train.txt(.data/mose_long_train.txt)
 	|-- val.txt(.data/mose_long_val.txt)
 	|	|-- train/
