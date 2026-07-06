@@ -2,7 +2,7 @@
 A Lightweight Self-Prompting SAM2 Model for Robust Video Object Segmentation.
 
 <!-- <img width="3858" height="1567" alt="Image" src="https://github.com/user-attachments/assets/0eb83640-1229-4185-a6c5-7931270216f6" /> -->
-https://github.com/user-attachments/assets/0eb83640-1229-4185-a6c5-7931270216f6
+https://github.com/user-attachments/assets/0eb83640-1229-4185-a6c5-7931270216f6.png
 
 ## Highlights
 
