@@ -1,7 +1,7 @@
 # LSP-SAM2_v2
 A Lightweight Self-Prompting SAM2 Model for Robust Video Object Segmentation.
 
-[Figure_2.pdf](https://github.com/user-attachments/files/29685367/Figure_2.pdf)
+https://github.com/user-attachments/files/29685367/Figure_2.pdf
 
 
 ## Highlights
