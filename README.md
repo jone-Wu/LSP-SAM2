@@ -22,8 +22,6 @@ A Lightweight Self-Prompting SAM2 Model for Robust Video Object Segmentation.
 
 https://github.com/user-attachments/assets/80a7e0f1-0743-4590-a25a-2fd4f12ed152.mp4
 
-https://github.com/user-attachments/assets/f634d4a1-1964-41a9-9a1e-336c12933bf6.mp4
-
 ## Getting Started
 ### Installation
    LSP-SAM2 needs to be installed first before use. The code requires `python>=3.10`, as well as `torch>=2.3.1` and `torchvision>=0.18.1`.
