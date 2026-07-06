@@ -1,5 +1,5 @@
 # LSP-SAM2_v2
-A Lightweight Self-Prompting SAM2 Model for Robust Video Object Segmentation.
+A Light-weight Self-Prompting Foundation Model for Automatous Video Object Segmentation
 
 <img width="3858" height="1567" alt="Image" src="https://github.com/user-attachments/assets/0eb83640-1229-4185-a6c5-7931270216f6" />
 <!-- https://github.com/user-attachments/assets/0eb83640-1229-4185-a6c5-7931270216f6.png -->
@@ -28,7 +28,7 @@ https://github.com/user-attachments/assets/80a7e0f1-0743-4590-a25a-2fd4f12ed152.
 
 You can install it on a GPU machine using:
 
-	git clone https://github.com/jone-Wu/LSP-SAM2_v2.git && cd LSP-SAM2_v2
+	git clone https://github.com/jone-Wu/LSP-SAM2.git && cd LSP-SAM2
 	pip install -e .
 >**Note:** It's recommended to create a new Python environment via Anaconda for this installation.
 
