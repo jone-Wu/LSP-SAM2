@@ -93,7 +93,7 @@ You can install it on a GPU machine using:
 	|	|	|	|	|-- ...
 
 ## Evaluation
-You can run the `./eval/valid_LSP_SAM2_v6_final.py` according to the following configuration:
+You can run the `./eval/valid_LSP_SAM2.py` according to the following configuration:
 
 	--sam2_cfg
 	configs/sam2.1/sam2.1_hiera_b+.yaml
@@ -122,7 +122,7 @@ You can run the `./eval/valid_LSP_SAM2_v6_final.py` according to the following c
 	--large_weight
 	0.4
 	--backtrack_range
-	3
+	30
 
 
 ## Acknowledgements
